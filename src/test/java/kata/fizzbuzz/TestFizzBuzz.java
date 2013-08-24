@@ -1,8 +1,8 @@
 package kata.fizzbuzz;
 
-import kata.fizzbuzz.kata.fizzbuzz.MultipleOfFive;
-import kata.fizzbuzz.kata.fizzbuzz.MultipleOfThree;
-import kata.fizzbuzz.kata.fizzbuzz.MultipleOfThreeAndFive;
+import kata.fizzbuzz.MultipleOfFive;
+import kata.fizzbuzz.MultipleOfThree;
+import kata.fizzbuzz.MultipleOfThreeAndFive;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

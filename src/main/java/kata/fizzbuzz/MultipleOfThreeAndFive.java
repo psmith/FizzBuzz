@@ -9,6 +9,6 @@ package kata.fizzbuzz;
  */
 public class MultipleOfThreeAndFive implements kata.fizzbuzz.Filter {
     public String convert(int i){
-        return i % 3 == 0 && i % 5 == 0 ? "FizzBuzz" : null;
+        return i % 15 == 0 ? "FizzBuzz" : null;
     }
 }
